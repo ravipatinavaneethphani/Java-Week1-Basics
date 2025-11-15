@@ -1,2 +1,2 @@
-# Java-Week1-Basics
-Internship (Java developer)
+# Java Week 1 Basics
+This folder contains all programs for Week 1.
